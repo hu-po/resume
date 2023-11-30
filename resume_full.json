@@ -1,0 +1,201 @@
+{
+    "basics": {
+        "name": "Hugo Ponte",
+        "label": "",
+        "image": "",
+        "email": "foo@foo.com",
+        "phone": "111-111-1111",
+        "url": "https://johndoe.com",
+        "summary": "",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Austin",
+            "countryCode": "US",
+            "region": "Texas"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "hu-po",
+                "url": "https://github.com/hu-po"
+            },
+            {
+                "network": "Twitter",
+                "username": "hupobuboo",
+                "url": "https://twitter.com/hupobuboo"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "hugoponte",
+                "url": "https://www.linkedin.com/in/hugoponte/"
+            },
+            {
+                "network": "YouTube",
+                "username": "hu-po",
+                "url": "https://youtube.com/@hu-po"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "hu-po",
+            "position": "Founder",
+            "startDate": "2022-11-01",
+            "endDate": "Present",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "name": "Weights & Biases",
+            "position": "SWE ML Workflows",
+            "startDate": "2022-03-01",
+            "endDate": "2022-11-01",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "name": "Zumo Labs",
+            "position": "Co-Founder & CTO",
+            "startDate": "2019-07-01",
+            "endDate": "2022-03-01",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "name": "Google",
+            "position": "AI Resident at Google Brain",
+            "startDate": "2018-06-01",
+            "endDate": "2019-06-01",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "name": "Osaro, Inc.",
+            "position": "Robotics Research Engineer",
+            "startDate": "2016-08-01",
+            "endDate": "2017-10-01",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "name": "Amazon Robotics",
+            "position": "Systems Layout Engineer - Advanced Programs",
+            "startDate": "2015-01-01",
+            "endDate": "2016-07-01",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "name": "Carnegie Mellon University",
+            "position": "Robotics Researcher at Robotics Institute",
+            "startDate": "2011-09-01",
+            "endDate": "2014-12-01",
+            "summary": "",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Carnegie Mellon University",
+            "area": "Robotics",
+            "studyType": "Master",
+            "startDate": "",
+            "endDate": "",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Carnegie Mellon University",
+            "area": "Mechanical Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Carnegie Mellon University",
+            "area": "Physics",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "publications": [
+        {
+            "name": "ZPY: Open Source Synthetic Data for Computer Vision",
+            "publisher": "",
+            "releaseDate": "2021-05-05",
+            "summary": ""
+        },
+        {
+            "name": "ROBEL: Robotics Benchmarks for Learning with Low-Cost Robots",
+            "publisher": "",
+            "releaseDate": "2019-12-16",
+            "summary": ""
+        },
+        {
+            "name": "Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real",
+            "publisher": "",
+            "releaseDate": "2019-10-07",
+            "summary": ""
+        },
+        {
+            "name": "Guided Locomotion in 3D for Snake Robots based on Contact Force Optimization",
+            "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+            "releaseDate": "2014-06-01",
+            "summary": ""
+        },
+        {
+            "name": "Visual Sensing for Developing Autonomous Behavior in Snake Robots",
+            "publisher": "2014 IEEE International Conference on Robotics and Automation (ICRA 2014)",
+            "releaseDate": "2013-09-16",
+            "summary": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Native"
+        },
+        {
+            "language": "French",
+            "fluency": "Native"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "volunteer": [],
+    "awards": [],
+    "certificates": []
+}
