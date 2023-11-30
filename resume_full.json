@@ -43,7 +43,7 @@
             "position": "Founder",
             "startDate": "2022-11-01",
             "endDate": "Present",
-            "summary": "",
+            "summary": "Coding and ML Paper reading Livestreams on YouTube, Twitch, and Twitter.",
             "highlights": []
         },
         {
@@ -51,7 +51,7 @@
             "position": "SWE ML Workflows",
             "startDate": "2022-03-01",
             "endDate": "2022-11-01",
-            "summary": "",
+            "summary": "Solo dev on sweeps product, a hyperparameter optimization tool. Production commits in Python, Go, and TypeScript.",
             "highlights": []
         },
         {
@@ -59,7 +59,7 @@
             "position": "Co-Founder & CTO",
             "startDate": "2019-07-01",
             "endDate": "2022-03-01",
-            "summary": "",
+            "summary": "Co-founded a company in the machine learning space using synthetic data to improve computer vision. Went through Y-Combinator and raised $1.3 million. Wore many hats including hiring and managing the technical team as the CTO. Developed new technology using PyTorch, Unity & C#. Built (and still maintain!) the Open Source synthetic data toolkit github.com/ZumoLabs/zpy written in Python.",
             "highlights": []
         },
         {
@@ -67,7 +67,7 @@
             "position": "AI Resident at Google Brain",
             "startDate": "2018-06-01",
             "endDate": "2019-06-01",
-            "summary": "",
+            "summary": "Designed, trained and analyzed deep reinforcement learning agents deployed on real world robotic systems (manipulators and legged robots) using Tensorflow, Colab, MuJoCo. Supported internal software and hardware infrastructure projects within research organization, organizing and leading weekly standups for robotic manipulation research group. Team contributor in two publications.",
             "highlights": []
         },
         {
@@ -75,7 +75,7 @@
             "position": "Robotics Research Engineer",
             "startDate": "2016-08-01",
             "endDate": "2017-10-01",
-            "summary": "",
+            "summary": "Software integration of vision sensors including: cameras, stereo rigs, and structured light sensors. Object detection and pose estimation pipelines from multimodal input (ICP variants, Deep Learning). Implementing robot motion control (IK, force/torque controllers) and task planning (FSM, Behavior Tree). Creating simulation environments (Unity3D, CAD) for real-time obstacle avoidance and data collection. Osaro creates AI software for robotic control and perception.",
             "highlights": []
         },
         {
@@ -83,7 +83,7 @@
             "position": "Systems Layout Engineer - Advanced Programs",
             "startDate": "2015-01-01",
             "endDate": "2016-07-01",
-            "summary": "",
+            "summary": "Owned the system layout (robotic navigation map) of a new prototype robotic warehouse from initial concepts, through construction and deployment, and in production surviving Amazon's busy peak season. Improved throughput and performance of the warehouse layout through analysis of simulation and real-time data with SQL and Python. I was on the team that organized and judged the Amazon Picking Challenges: international robotic manipulation competitions held in 2015 and 2016.",
             "highlights": []
         },
         {
@@ -91,7 +91,7 @@
             "position": "Robotics Researcher at Robotics Institute",
             "startDate": "2011-09-01",
             "endDate": "2014-12-01",
-            "summary": "",
+            "summary": "As part of research MS in Robotics, published work on contact force optimization for 3D motion of snake robots in simulation [3]. Path planning for snake robots using custom 3D structured light sensor [4]. Robots and sensors were programmed in C++ and built in-house. Created a robotic grasp simulation pipeline using Python and Matlab for grasp classification. Also graduated from CMU with a dual degree BS in Physics and BS in Mechanical Engineering.",
             "highlights": []
         }
     ],
@@ -170,29 +170,8 @@
             "fluency": "Native"
         }
     ],
-    "projects": [
-        {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
-            "highlights": [
-                "Won award at AIHacks 2016"
-            ],
-            "url": "https://project.com/"
-        }
-    ],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "Master",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ]
-        }
-    ],
+    "projects": [],
+    "skills": [],
     "interests": [],
     "references": [],
     "volunteer": [],
